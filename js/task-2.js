@@ -31,4 +31,5 @@ const getUsersWithFriend = (users, friendName) => {
       name: "Sheree Anthony",
       friends: ["Goldie Gentry", "Briana Decker"],
     },
+    
   ];
